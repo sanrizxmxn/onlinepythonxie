@@ -3,9 +3,9 @@ dependencies:
   - pip:
     - spacy
     - ipykernel
-    - scipy
     - numpy
-    - scikit-learn
     - matplotlib
-    - pandas
-    - thinc
+    - panda
+    - tushare
+    - lxml
+    - requests
